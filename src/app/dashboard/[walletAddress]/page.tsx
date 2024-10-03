@@ -90,7 +90,7 @@ const CreateCampaignModal = (
                     campaignName,
                     campaignDescription,
                     campaignGoal,
-                    campaignDeadline
+                    campaignDeadline,
                 ],
                 publisher: "0x0b17D4fEa1cb91A5fF65f3f55c3e476e05F9CD0f",
                 version: "1.0.0",
