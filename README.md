@@ -1,5 +1,7 @@
 ![tw-banner](https://github.com/user-attachments/assets/2426c0ed-7271-4153-a582-c196bf31ecb9)
 
+### A crowdfunding app is a platform that allows individuals or organizations to raise funds for a specific project, cause, or venture by collecting small contributions from a large number of people, typically via the Blockchain.
+
 ## link for NEO-X scan
 
  [here](https://testnet.scan.banelabs.org/address/0x0b17D4fEa1cb91A5fF65f3f55c3e476e05F9CD0f)
@@ -42,13 +44,3 @@ Preview the production build
 ```bash
 yarn start
 ```
-
-## Resources
-
-- [Documentation](https://portal.thirdweb.com/typescript/v5)
-- [Templates](https://thirdweb.com/templates)
-
-## Need help?
-
-For help or feedback, please [visit our support site](https://thirdweb.com/support)
-# Crowd-Funding-app
