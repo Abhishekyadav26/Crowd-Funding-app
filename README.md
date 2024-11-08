@@ -1,17 +1,13 @@
 ![tw-banner](https://github.com/user-attachments/assets/2426c0ed-7271-4153-a582-c196bf31ecb9)
 
+## link for NEO-X scan
 
-# thirdweb-next-starter
+ [here](https://testnet.scan.banelabs.org/address/0x0b17D4fEa1cb91A5fF65f3f55c3e476e05F9CD0f)
 
-Starter template to build an onchain react native app with [thirdweb](https://thirdweb.com/) and [next](https://nextjs.org/).
+### contract address :- 0x0b17D4fEa1cb91A5fF65f3f55c3e476e05F9CD0f
 
-## Installation
+### blockchain network :- NEO-X Testnet
 
-Install the template using [thirdweb create](https://portal.thirdweb.com/cli/create)
-
-```bash
-  npx thirdweb create app --next
-```
 
 ## Environment Variables
 
