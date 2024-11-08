@@ -1,5 +1,5 @@
+![tw-banner](https://github.com/user-attachments/assets/2426c0ed-7271-4153-a582-c196bf31ecb9)
 
-![tw-banner](https://github.com/thirdweb-example/next-starter/assets/57885104/20c8ce3b-4e55-4f10-ae03-2fe4743a5ee8)
 
 # thirdweb-next-starter
 
